@@ -12,9 +12,9 @@ Briefly answer the following questions:
 
 3. Can you name a few ways that this model might be improved?
 
-Several improvements could be made, including:
+- Several improvements could be made, including:
 
-- Feature Engineering: Exploring additional relevant features or transforming existing ones to better capture patterns in the data.
-- Handling Imbalanced Data: Using techniques such as oversampling the minority class, undersampling the majority class, or applying SMOTE (Synthetic Minority Over-sampling Technique).
-- Hyperparameter Tuning: Optimizing parameters like learning rate, number of layers, and dropout rates using grid search or random search.
-- Alternative Models: Experimenting with different architectures and boosting methods (such as XGBoost).
+  - Feature Engineering: Exploring additional relevant features or transforming existing ones to better capture patterns in the data.
+  - Handling Imbalanced Data: Using techniques such as oversampling the minority class, undersampling the majority class, or applying SMOTE (Synthetic Minority Over-sampling Technique).
+  - Hyperparameter Tuning: Optimizing parameters like learning rate, number of layers, and dropout rates using grid search or random search.
+  - Alternative Models: Experimenting with different architectures and boosting methods (such as XGBoost).
